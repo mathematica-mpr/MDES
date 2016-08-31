@@ -1,0 +1,14 @@
+Package: MDES
+Type: Package
+Title: Calculates the Minimum Detectable Effect Size (MDES)
+Version: 1.5
+Date: 2016-05-13
+Author: Ignacio Martinez
+Maintainer: Ignacio Martinez <ignacio82@gmail.com>
+Description: This package calculates MDES for random assignment of individuals,
+    with or without clustering, and for Quasi-Experimental Designs
+License: ?
+RoxygenNote: 5.0.1
+Imports: shiny, shinydashboard, shinyjs, shinyBS, shinyURL
+NeedsCompilation: no
+Packaged: 2016-05-17 19:24:54 UTC; IMartinez

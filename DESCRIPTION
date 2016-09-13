@@ -7,7 +7,7 @@ Author: Ignacio Martinez
 Maintainer: Ignacio Martinez <ignacio82@gmail.com>
 Description: This package calculates MDES for random assignment of individuals,
     with or without clustering, and for Quasi-Experimental Designs
-License: ?
+License: GPL-3
 RoxygenNote: 5.0.1
 Imports: shiny, shinydashboard, shinyjs, shinyBS, shinyURL
 NeedsCompilation: no
